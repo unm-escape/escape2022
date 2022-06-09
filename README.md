@@ -1,6 +1,5 @@
 ![unm-escape header](header.png)
-
-# UNM ESCAPE 2022
+#
 
 To create environment:
 1) Download the environment.yml file

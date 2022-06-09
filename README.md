@@ -13,6 +13,4 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 ## Maintainers
 
-## About
-
 ## Acknowledgements

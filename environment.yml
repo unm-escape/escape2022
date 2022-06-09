@@ -1,4 +1,4 @@
-name: example_install
+name: unmEscape2022
 channels:
   - conda-forge
   - defaults
@@ -6,3 +6,8 @@ dependencies:
   - cartopy
   - pandas
   - plotly
+  - obspy
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - ipywidgets

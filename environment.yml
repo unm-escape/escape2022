@@ -1,0 +1,8 @@
+name: example_install
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - pandas
+  - plotly

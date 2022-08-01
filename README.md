@@ -18,11 +18,11 @@ Aug 12: Intro to seismic data processing from Chignik event
 
 Aug 15: Geophysical survey across a fluvial system
 
-Aug 16: Seismic data processing
+Aug 16: Seismic data processing; afternoon visit to CARC and introduction to HPC systems
 
 Aug 17: Group projects day
 
-Aug 18: Morning visit to CARC and introduction to HPC systems, afternoon work on projects
+Aug 18: Group projects day
 
 Aug 19: Group projects touch-ups and presentations
 

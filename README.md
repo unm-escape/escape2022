@@ -20,7 +20,7 @@ Aug 15: Geophysical survey across a fluvial system
 
 Aug 16: Seismic data processing; afternoon visit to CARC and introduction to HPC systems
 
-Aug 17: Group projects day
+Aug 17: Seismic data processing; Group projects in afternoon
 
 Aug 18: Group projects day
 

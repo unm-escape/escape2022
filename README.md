@@ -14,7 +14,7 @@ Aug 10: Making maps in pyGMT
 
 Aug 11: Fitting a fault model to geodetic data (Chignik earthquake slip model)
 
-Aug 12: Intro to seismic data processing from Chignik event
+Aug 12: Intro to Obspy and teleseismic data processing (Kodiak Island data) 
 
 Aug 15: Geophysical survey across a fluvial system
 
@@ -37,7 +37,7 @@ To ensure your conda environment has all the packages needed for this course:
 Eric Lindsey, Evans Onyango, Jeng Hann Chong, Lindsay Worthington, Mousumi Roy, Brandon Schmandt
 
 ## Maintainers
-Eric Lindsey, Evans Onyango 
+Eric Lindsey, Evans Onyango
 
 ## Acknowledgements
 Thanks to NSF support for making this program possible (Award #2146272).

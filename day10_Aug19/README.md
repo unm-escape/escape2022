@@ -1,1 +1,1 @@
-# Group projects day
+# Group projects touch-ups and presentations

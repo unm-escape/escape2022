@@ -8,23 +8,23 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 ## Schedule
 Aug 8: Introduction to python and programming basics
 
-Aug 9: Loading & plotting data and fitting models
+Aug 9: Interacting with data
 
-Aug 10: Making maps in pyGMT
+Aug 10: Maps and spatial data
 
-Aug 11: Fitting a fault model to geodetic data (Chignik earthquake slip model)
+Aug 11: More advanced modeling
 
-Aug 12: Intro to Obspy and teleseismic data processing (Kodiak Island data) 
+Aug 12: Field trip all day  
 
-Aug 15: Geophysical survey across a fluvial system
+Aug 15: Seismology
 
-Aug 16: Seismic data processing; afternoon visit to CARC and introduction to HPC systems
+Aug 16: Geophysical survey across a fluvial system; afternoon visit to CARC and introduction to HPC systems
 
-Aug 17: Seismic data processing; Group projects in afternoon
+Aug 17: seismology, group projects
 
-Aug 18: Group projects day
+Aug 18: Group projects all day
 
-Aug 19: Group projects touch-ups and presentations
+Aug 19: Presentations day!
 
 ## Installation
 Programming will be done within the Jupyter-Lab environment. This can be installed through conda (https://www.anaconda.com/).

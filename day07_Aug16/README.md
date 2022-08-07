@@ -1,1 +1,1 @@
-# Aug 16: Seismic data processing; afternoon visit to CARC and introduction to HPC systems
+# Aug 16: Seismic survey; CARC visit and HPC introduction 

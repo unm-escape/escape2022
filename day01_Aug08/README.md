@@ -1,1 +1,1 @@
-# Aug 8: Introduction to python and programming basics
+# Aug 8: Introduction to programming

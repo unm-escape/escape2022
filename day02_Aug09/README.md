@@ -1,1 +1,1 @@
-# Aug 9: Loading & plotting data and fitting models
+# Aug 9: Interacting with data 

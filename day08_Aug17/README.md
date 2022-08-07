@@ -1,1 +1,1 @@
-# Group projects day
+# Seismology and group projects

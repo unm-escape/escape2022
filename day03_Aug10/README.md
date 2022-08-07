@@ -1,1 +1,1 @@
-# Aug 10: Making maps in pyGMT
+# Aug 10: Maps and spatial data 

@@ -1,1 +1,1 @@
-# Aug 12: Intro to Obspy and teleseismic data processing (Kodiak Island data)
+# Aug 12: Field trip all day 

@@ -18,17 +18,18 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 #### Day 2: Interacting with data
   * 9:30 – 10:15: Lecture: **Satellites, GPS, and modern geodesy (Eric)**
-  * 10:30 – 11:15: Lecture: **Modeling and parameter estimation (Eric)**
-  * 11:30 – 12: Lecture / demo: **getting GPS data and making a plot (Jeng Hann)**
+  * 10:30 – 12: Lecture / demo: **getting GPS data and making a plot (Jeng Hann)**
   * 12 – 1: Lunch
-  * 1 – 4: Self-guided exercises: reading GPS data, plotting, and line-fitting
+  * 1 - 2: Lecture: **Modeling and parameter estimation (Eric)**
+  * 2 – 4: Self-guided exercises: reading GPS data, plotting, and line-fitting
 
 #### Day 3: Maps and spatial data
   * 9:30 – 10:30: Lecture: **Questions in Plate tectonics and the western US (Mousumi)**
-  * 10:45 – 11:30 Lecture: **Alaskan tectonics (Lindsay)**
-  * 11:30 – 12: Lecture/demo: **Maps and cartopy demo (Jeng Hann)**
+  * 10:45 – 11:30: Lecture/demo: **Maps and cartopy demo (Jeng Hann)**
+  * 11:30 – 12: Self-guided exercises: cartopy installation, introduction and mapping GPS vectors
   * 12 – 1: Lunch
-  * 1 – 4: Self-guided exercises: cartopy installation, introduction and mapping GPS vectors
+  * 1 - 2: Lecture: **Alaskan tectonics (Lindsay)**
+  * 2 – 4: Self-guided exercises: cartopy installation, introduction and mapping GPS vectors
 
 #### Day 4: More advanced modeling
   * 9:30 – 10:15: Lecture: **Geodetic modeling (Eric)**

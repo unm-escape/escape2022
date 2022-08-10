@@ -24,16 +24,14 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 2 – 4: Self-guided exercises: reading GPS data, plotting, and line-fitting
 
 #### Day 3: Maps and spatial data
-  * 9:30 – 10:30: Lecture: **Questions in Plate tectonics and the western US (Mousumi)**
-  * 10:45 – 11:30: Lecture/demo: **Maps and cartopy demo (Jeng Hann)**
-  * 11:30 – 12: Self-guided exercises: cartopy installation, introduction and mapping GPS vectors
+  * 9:30 – 11:30: Lecture: **Questions in Plate tectonics and the western US (Mousumi)**
+  * 11:30 – 12: **Maps and cartopy demo (Jeng Hann)**
   * 12 – 1: Lunch
-  * 1 - 2: Lecture: **Alaskan tectonics (Lindsay)**
-  * 2 – 4: Self-guided exercises: cartopy installation, introduction and mapping GPS vectors
+  * 1 – 4: Self-guided exercises: cartopy installation, introduction and mapping GPS vectors
 
 #### Day 4: More advanced modeling
-  * 9:30 – 10:15: Lecture: **Geodetic modeling (Eric)**
-  * 10:30 – 11: Lecture: **InSAR data (Eric)**
+  * 9:30 – 10:15: Lecture: **InSAR and Geodetic modeling (Eric)**
+  * 10:30 – 11: Lecture: **Alaskan tectonics (Lindsay)**
   * 11:15 – 12: Geodesy modeling demo – visible earthquakes website
   * 12 – 1: Lunch
   * 1 – 3: Okada model exercise

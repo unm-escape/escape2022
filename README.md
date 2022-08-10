@@ -30,12 +30,12 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 1 – 4: Self-guided exercises: cartopy installation, introduction and mapping GPS vectors
 
 #### Day 4: More advanced modeling
-  * 9:30 – 10:15: Lecture: **InSAR and Geodetic modeling (Eric)**
-  * 10:30 – 11: Lecture: **Alaskan tectonics (Lindsay)**
-  * 11:15 – 12: Geodesy modeling demo – visible earthquakes website
+  * 9:30 – 10:30: Lecture: **InSAR and Geodetic modeling (Eric)**
+  * 10:45 – 12: Geodesy modeling demo – visible earthquakes website, Okada model
   * 12 – 1: Lunch
-  * 1 – 3: Okada model exercise
-  * 3 – 4: Lecture: **ABQ geology (Lindsay)**
+  * 1 – 2: Lecture: **Alaskan tectonics (Lindsay)**
+  * 2 – 2:30: Lecture: **ABQ geology (Lindsay)**
+  * 2:30 – 4: Self-guided exercises: modeling and mapping
 
 #### Day 5: Field trip all day
   * Volcanoes

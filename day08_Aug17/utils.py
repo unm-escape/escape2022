@@ -1,7 +1,7 @@
 import numpy as np
 import math
-from scipy.signal.windows import triang
-from scipy.signal import convolve2d as conv2
+#from scipy.signal.windows import triang
+#from scipy.signal import convolve2d as conv2
 
 ##================================ 1) Plot SEG-Y ===========================
 def plot_segy(segyFile, normalizeTraces=False, normalizeGlobal=False, scale=1, title=None, tstart=None, tend=None, saveFigure=False):

@@ -12,7 +12,7 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 #### Day 1: Introduction to programming
   * 9:30 – 11: Introduction to the course and icebreaker
   * 11:15 – 12: Lecture: **Intro to programming (Eric)**
-  * 12 – 1: Lunch – Pizza 
+  * 12 – 1: Lunch – Pizza
   * 1 – 2: Jupyter and python installation and demo
   * 2 – 4: Self-guided exercises: intro to Python notebook
 
@@ -45,20 +45,21 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 ###  Week 2
 
-#### Day 6: Seismology 
+#### Day 6: Seismology
   * 9:30 – 10:30: **What is seismology? (Brandon)**
   * 11 – 12: Lecture: **ObsPy intro & demo (Evans)**
   * 12 - 1: Lunch – w/grad students
   * 1 – 3 ObsPy demo & exercises
   * 3 – 4: Lecture: **Prep for active seismic survey (Lindsay)**
- 
-#### Day 7: 
+
+#### Day 7:
   * 8:30 – 12: Seismic survey at Alameda open space
   * Lunch – w/grad students
   * 1-3: CARC visit and HPC introduction
 
 #### Day 8: Seismology and group projects
-  * Finish seismology examples 
+  * 9:30 - 10:30 Lecture: **Seismic reflection (Lindsay)**
+  * 11 - 12: **Plotting seismic reflection data and picking arrivals demo (Evans)**
   * Lunch – w/grad students
   * Start work on group projects
 
@@ -69,7 +70,7 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 9:30 – 11: **Group presentations**
   * 11:15 – 12: Lecture: **Going to grad school, careers in geophysics**
   * 12pm onward: Join grad students for lunch on the lawn and ice cream social
-  
+
 ## Installation
 Programming will be done within the Jupyter-Lab environment. This can be installed through conda (https://www.anaconda.com/).
 

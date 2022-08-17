@@ -59,7 +59,7 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 #### Day 8: Seismology and group projects
   * 9:30 - 10:30 Lecture: **Seismic reflection (Lindsay)**
-  * 11 - 12: **Plotting seismic reflection data and picking arrivals demo (Evans)**
+  * 11 - 12: Demo: **Plotting seismic reflection data and picking arrivals (Evans)**
   * Lunch – w/grad students
   * Start work on group projects
 

@@ -40,7 +40,7 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 #### Day 5: Field trip all day
   * Volcanoes
-  * Lunch - on the road
+  * 12 - 1: Lunch - on the road
   * Foothills
 
 ###  Week 2
@@ -60,8 +60,8 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 #### Day 8: Seismology and group projects
   * 9:30 - 10:30 Lecture: **Seismic reflection (Lindsay)**
   * 11 - 12: Demo: **Plotting seismic reflection data and picking arrivals (Evans)**
-  * Lunch – w/grad students
-  * Start work on group projects
+  * 12 - 1: Lunch – w/grad students
+  * 1 - 4: Start work on group projects
 
 #### Day 9: Group projects
   * Group projects all day

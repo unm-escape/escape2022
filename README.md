@@ -80,6 +80,7 @@ To ensure your conda environment has all the packages needed for this course:
 
 ## Contributors
 Eric Lindsey, Evans Onyango, Jeng Hann Chong, Lindsay Worthington, Mousumi Roy, Brandon Schmandt
+
 [![DOI](https://zenodo.org/badge/501495854.svg)](https://zenodo.org/badge/latestdoi/501495854)
 
 ## Maintainers

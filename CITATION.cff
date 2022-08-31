@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lindsey"
+  given-names: "Eric"
+- family-names: "Onyango"
+  given-names: "Evans"
+  orcid: "https://orcid.org/0000-0001-5790-6055"
+- family-names: "Chong"
+  given-names: "Jeng Hann" 
+- family-names: "Worthington"
+  given-names: "Lindsay"
+- family-names: "Roy"
+  given-names: "Mousumi"
+- family-names: "Schmandt"
+  given-names: "Brandon"
+title: "unm-escape/escape2022: Initial Release"
+version: 1.0.0
+doi: 10.5281/zenodo.7038864
+date-released: 2022-08-31
+url: "https://doi.org/10.5281/zenodo.7038864"
